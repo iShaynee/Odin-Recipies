@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+body {
+   display: flex;
+   justify-content: center;
+   align-items: flex-start;
+   
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    text-align: left;
+}
+.link {
+    color: blue;
+    background-color: grey;
+    font-size: larger;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
